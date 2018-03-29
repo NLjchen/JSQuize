@@ -1,0 +1,2 @@
+# JSQuize
+JS training homework
